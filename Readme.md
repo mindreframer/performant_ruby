@@ -2,13 +2,13 @@
 
 
 ## ORM
-
+  - https://github.com/jeremyevans/sequel - Sequel: The Database Toolkit for Ruby
 
 
 ## Validation
-  - [Validation frontend for models](https://github.com/soveran/scrivener)
-    - http://bits.citrusbyte.com/model-validations/
-  - [Bureaucrat - Form handling for Ruby](https://github.com/tizoc/bureaucrat)
+
+  - https://github.com/soveran/scrivener - Validation frontend for models, more here:  http://bits.citrusbyte.com/model-validations/
+  - https://github.com/tizoc/bureaucrat - Bureaucrat - Form handling for Ruby -
 
 
 ## Templating
@@ -18,22 +18,28 @@
 
 ## Data Structures
 
-  - [OpenFastStruct is a data structure, similar to an OpenStruct but faste](https://github.com/arturoherrero/ofstruct)
+  - https://github.com/arturoherrero/ofstruct - OpenFastStruct is a data structure, similar to an OpenStruct but fast
 
 
 ## Webframeworks
 
-  - [Roda](http://roda.jeremyevans.net/)
-  - [Lotus](http://lotusrb.org/)
+  - http://roda.jeremyevans.net - Roda
+  - http://lotusrb.org/ - Lotus
 
+
+## Hashbuilder / Serializers
+
+  - https://github.com/mindreframer/api_view - Friggin' fast Serializer gem
 
 
 ## Simple libs
    - https://github.com/TheBlasfem/garfio - Garfio helps you to build hooks in your ruby objects
+   - https://github.com/mindreframer/require_pattern_xt - robust and easy file requiring
+
 
 
 ## Excel Parsing
-  - [Creek – Stream parser for large Excel(xlsx and xlsm) files.](https://github.com/pythonicrubyist/creek)
+  - https://github.com/pythonicrubyist/creek - Creek – Stream parser for large Excel(xlsx and xlsm) files.
 
 
 ## CSV Parsing
@@ -45,3 +51,7 @@
 ## File Uploads
   - [Refile](https://github.com/refile/refile)
 
+
+## Some links were taken from
+  - https://github.com/dreikanter/ruby-bookmarks
+  - https://github.com/markets/awesome-ruby
